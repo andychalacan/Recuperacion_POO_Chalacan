@@ -1,2 +1,3 @@
 # Recuperacion_POO_Chalacan
-# Credenciales: (Usuario = Andy)/(Contraseña =andy123)
+# Credenciales Login: (Usuario = Andy)/(Contraseña =andy123)
+# Credenciales Codigo (Codigo= 152301)
